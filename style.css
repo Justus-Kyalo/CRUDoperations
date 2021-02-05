@@ -1,0 +1,22 @@
+body.h3{
+    padding-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+    margin: auto;
+    text-align: center;
+
+    
+
+}
+input[type='submit'],button,[arial-label]{
+    cursor: pointer;
+}
+#edit-box{
+    display:none ;
+    
+    margin: auto;
+    max-width: 90%;
+    margin-top: 10px;
+}
